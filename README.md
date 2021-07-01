@@ -1,6 +1,6 @@
 # Title of your LiveCoMS article
 
-Brief explanation of the focus of your article.
+This repository accompanies the [LiveCoMS](https://www.livecomsjournal.org/) article of the same name (under review).
 
 This document is written in [Markdown](https://guides.github.com/features/mastering-markdown/).
 
@@ -8,6 +8,8 @@ This document is written in [Markdown](https://guides.github.com/features/master
 
 - `manuscript.tex`: Main manuscript in LaTeX
 - `figures/`: Figures of manuscript
+
+Create the manuscript PDF via `pdflatex manuscript.tex`.
 
 ## List of Authors
 
